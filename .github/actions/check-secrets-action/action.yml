@@ -3,8 +3,8 @@ author: mattdavis0351
 description: validation action for this lab
 
 inputs:
-  PAT:
-    description: $PAT
+  mi_secreto:
+    description: $MI_SECRETO
     required: true
   secrets-context:
     description: The GitHub Actions secrets context object
