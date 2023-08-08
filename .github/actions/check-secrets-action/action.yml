@@ -3,7 +3,7 @@ author: mattdavis0351
 description: validation action for this lab
 
 inputs:
-  your-secret:
+  PAT:
     description: $PAT
     required: true
   secrets-context:
