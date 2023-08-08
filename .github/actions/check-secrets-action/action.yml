@@ -3,8 +3,8 @@ author: mattdavis0351
 description: validation action for this lab
 
 inputs:
-  PAT:
-    description: A Personal Access Token with the repo scope stored as a secret
+  your-secret:
+    description: $PAT
     required: true
   secrets-context:
     description: The GitHub Actions secrets context object
