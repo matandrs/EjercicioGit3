@@ -3,7 +3,7 @@ author: mattdavis0351
 description: validation action for this lab
 
 inputs:
-  mi_secreto:
+  MI_SECRETO:
     description: $MI_SECRETO
     required: true
   secrets-context:
